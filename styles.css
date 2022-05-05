@@ -37,3 +37,6 @@ input[type='range'] {
 .footer .github {
   float:right;
 }
+.command{
+  color: blue;
+}
